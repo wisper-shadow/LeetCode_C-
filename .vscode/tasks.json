@@ -9,7 +9,7 @@
             "type": "shell",
             "args": [
                 "${file}",
-                "-std=c++17",
+                "-std=c++11",
                 "-g"
             ],
             "presentation": {
